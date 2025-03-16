@@ -28,10 +28,12 @@ La Aplicación del Amigo Secreto es una herramienta sencilla y fácil de usar, q
 1. **Agregar Nombres:**
 - Escribe el nombre de un participante en el campo de entrada.
 - Haz clic en el botón "Añadir" para incluir el nombre en la lista.
+- Añadir amigo "assets/agregar-amigo.png" /* escribiendo un nombre y presionando sobre la tecla "Añadir" pueden agregar un nuevo amigo.
 
 2. **Sortear Amigo Secreto:**
 - Después de agregar todos los nombres, haz clic en el botón "Sortear Amigo Secreto".
 - El resultado se mostrará en la sección correspondiente.
+- Sortear amigo "assets/sortear-amigo.png" /* presionando sobre la tecla "Sortear amigo" sabrán quien es el escogido.
 
 ## Estructura del Proyecto
 challenge-amigo-secreto/
